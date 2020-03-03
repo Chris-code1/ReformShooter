@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{3631C476-90EF-3A4C-C126-BEECE02FB0CB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Timer.cs">
+    <Files>
+      <File FileName="Assets/Menu.cs" Line="11" Column="9" />
+      <File FileName="Assets/Timer.cs" Line="37" Column="47" />
+      <File FileName="Assets/TextMesh Pro/Examples &amp; Extras/Scripts/SimpleScript.cs" Line="12" Column="1" />
+      <File FileName="Assets/Vuforia/Scripts/Internal/RuntimeOpenSourceInitializer.cs" Line="1" Column="1" />
+      <File FileName="Assets/TriggerEvent.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ReformShooter" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="TextMesh Pro" expanded="True">
+                <Node name="Examples &amp; Extras" expanded="True">
+                  <Node name="Scripts" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Vuforia" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="Internal" expanded="True" />
+                </Node>
+              </Node>
+              <Node name="Timer.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1c341c09-a94f-44bf-a647-b53a1be85550" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
